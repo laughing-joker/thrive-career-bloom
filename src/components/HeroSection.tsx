@@ -8,12 +8,12 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-            <span className="text-primary">Your Career Journey</span>
+            <span className="text-white">Your Career Journey</span>
             <br />
-            <span className="text-primary-text">Starts Here</span>
+            <span className="text-black">Starts Here</span>
           </h1>
           
-          <p className="text-xl md:text-2xl text-primary-text mb-8 max-w-2xl mx-auto animate-slide-up opacity-90">
+          <p className="text-xl md:text-2xl text-white mb-8 max-w-2xl mx-auto animate-slide-up opacity-90">
             Connect with opportunities, enhance your skills, and accelerate your professional growth with our comprehensive career platform.
           </p>
           
@@ -29,7 +29,7 @@ const HeroSection = () => {
             <Button 
               variant="outline" 
               size="lg" 
-              className="border-primary-text text-primary-text hover:bg-primary-text hover:text-main-bg transition-all duration-300 text-lg px-8 py-6"
+              className="border-white text-white hover:bg-white hover:text-main-bg transition-all duration-300 text-lg px-8 py-6"
             >
               Learn More
             </Button>
