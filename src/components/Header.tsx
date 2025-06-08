@@ -32,7 +32,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <Briefcase className="h-8 w-8 text-primary" />
-          <span className="text-xl font-bold text-primary">CareerHub</span>
+          <span className="text-xl font-bold text-primary">Career Network Africa</span>
         </div>
 
         {/* Desktop Navigation */}
@@ -59,7 +59,7 @@ const Header = () => {
             </DropdownMenuTrigger>
             <DropdownMenuContent className="bg-main-bg border-gray-700">
               <DropdownMenuItem className="text-primary-text hover:bg-gray-800">English</DropdownMenuItem>
-              <DropdownMenuItem className="text-primary-text hover:bg-gray-800">Spanish</DropdownMenuItem>
+              <DropdownMenuItem className="text-primary-text hover:bg-gray-800">Swahili</DropdownMenuItem>
               <DropdownMenuItem className="text-primary-text hover:bg-gray-800">French</DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>

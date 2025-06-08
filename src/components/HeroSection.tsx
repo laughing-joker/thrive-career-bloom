@@ -8,13 +8,13 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-            <span className="text-white">Your Career Journey</span>
+            <span className="text-white">Your African Career Journey</span>
             <br />
             <span className="text-black">Starts Here</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-white mb-8 max-w-2xl mx-auto animate-slide-up opacity-90">
-            Connect with opportunities, enhance your skills, and accelerate your professional growth with our comprehensive career platform.
+            Connect with opportunities across Africa, enhance your skills, and accelerate your professional growth with our comprehensive career platform.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-slide-up">
